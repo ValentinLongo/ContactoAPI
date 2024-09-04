@@ -9,4 +9,5 @@ ASP.NET Core Web API en .NET 8
 3. Modificar la variable "DefaultConnection" archivo appsettings.json, con la cadena de conexión de la computadora local.
 4. Abrir terminal en el repositorio y ejecutar "dotnet restore"
 5. Compilar el proyecto con "dotnet build"
-6. Ejecutar proyecto con "dotnet run"
+6. Posicionarse en la segunda carpeta ContactoAPI "cd ContactoAPI"
+7. Ejecutar proyecto con "dotnet run"
